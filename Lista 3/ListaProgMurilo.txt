@@ -1,0 +1,32 @@
+1. O que é o paradigma de orientação a objetos e para que serve?
+
+Uma abordagem de programação com base em objetos, onde o mesmo é uma instância de uma classe possuinte de atributos e métodos. Serve para modelar sistemas complexos em componentes reutilizáveis e modulares.
+
+2.Em programação orientada a objetos (POO), é possível afirmar que uma “classe” é a mesma coisa que um “objeto”? Justifique e, se necessário, diferencie ambos.
+
+Uma classe é um modelo ou estrutura que define as propriedades e comportamentos que o objeto pode ter.
+Objeto é uma instância concreta da classe, sendo uma representação real de uma classe e tendo todas as características definidas pela classe.
+
+3.O que significa o termo “instanciar uma classe”? Explique com as suas próprias palavras.
+
+Criar um objeto de uma classe específica, onde uma classe é como se fosse uma descrição do objeto e o objeto seria uma instância concreta da classe
+
+4.É possível utilizar o paradigma de orientação a objetos em outras linguagens de programação? Justifique.
+
+Sim, em linguagens como C++ e Python, pois tem a capacidade de modular sistemas complexos em componentes modulares e reutilizáveis.
+
+5.O que significa quando dizemos que uma linguagem de programação é “multiparadigma”?
+
+Que ela pode utilizar de vários paradigmas de programação como orientação a objetos, programa funcional, programa procedural e etc.
+
+6.O que é um “atributo” em POO? Responda conforme o material disponibilizado no Moodle (apostila e slides).
+
+Uma variável que armazena dados de uma instância de classe.
+
+7.Para que serve um “modificador de acesso” em POO? Responda conforme o material disponibilizado no Moodle (apostila e slides).
+
+Recurso que permite controlar o acesso aos atributos e métodos de uma classe.
+
+8.Pesquise na internet o conceito de “hardcoding” (codificação rígida) e descreva o conceito com as suas próprias palavras.
+
+Termo utilizado para descrever a prática de codficar valores fixos diretamente no código-fonte de um programa.
